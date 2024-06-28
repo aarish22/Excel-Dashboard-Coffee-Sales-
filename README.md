@@ -9,3 +9,5 @@ This repository contains an Excel dashboard that provides an exploratory data an
 - **Trend Analysis**: Monthly and yearly sales trends.
 - **Top Products**: Insights into the best-selling coffee products.
 
+## Preview 
+(Screenshot 2024-06-28 220118.png)
