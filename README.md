@@ -10,4 +10,5 @@ This repository contains an Excel dashboard that provides an exploratory data an
 - **Top Products**: Insights into the best-selling coffee products.
 
 ## Preview 
-(Screenshot 2024-06-28 220118.png)
+![Preview](https://github.com/aarish22/Excel-Dashboard-Coffee-Sales-/blob/main/Screenshot%202024-06-28%20220118.png)
+![Preview](https://github.com/aarish22/Excel-Dashboard-Coffee-Sales-/blob/main/Screenshot%202024-06-28%20220139.png)
